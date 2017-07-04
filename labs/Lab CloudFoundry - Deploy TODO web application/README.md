@@ -26,22 +26,6 @@ In the following lab, you will learn:
 + Install [Node.js](https://nodejs.org)
 
 
-# Steps
-
-1. [Create a new web application](#step-1---create-a-new-web-application)
-1. [Enable Continuous Delivery](#step-2---enable-continuous-delivery)
-1. [Checkout the code locally](#step-3---checkout-the-code-locally)
-1. [Run the app locally](#step-4---run-the-app-locally)
-1. [Change a file locally](#step-5---change-a-file-locally)
-1. [Push your local change to the cloud](#step-6---push-your-local-change-to-the-cloud)
-1. [Commit your changes and see them deployed automatically](#step-7---commit-your-changes-and-see-them-deployed-automatically)
-1. [Get the Todo App code](#step-8---get-the-todo-app-code)
-1. [Create and bind a Cloudant service](#step-9---create-and-bind-a-cloudant-service)
-1. [Connect the Cloudant DB to the application code](#step-10---connect-the-cloudant-db-to-the-application-code)
-1. [Run the Todo App locally](#step-11---run-the-todo-app-locally)
-1. [Commit the changes](#step-12---commit-the-changes)
-
-
 # Step 1 - Checkout the code locally
 
 1. Open a terminal or a command prompt to clone the repository of the to-do app that you forked. This is the repo that is stored under your username.
