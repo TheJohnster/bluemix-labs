@@ -30,8 +30,6 @@ In the following lab, you will learn:
 
 1. Open a terminal or a command prompt to clone the repository of the to-do app that you forked. This is the repo that is stored under your username.
 
-For example : [this archive](./solution/node-todo-master.zip)
-
     ```
     git clone <URL-OF-YOUR-GIT-REPO>
     ```
