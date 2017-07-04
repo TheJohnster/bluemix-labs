@@ -13,8 +13,6 @@ In the following lab, you will learn:
 
 + How to deploy a new Cloud Foundry app based on Node.js runtime
 + How to create a new service Cloudant DB to store NoSQL data
-+ How to set up a source code repository to collaborate
-+ How to manage Continuous Integration and Deployment
 + How to use the Cloud Foundry Command Line
 
 
